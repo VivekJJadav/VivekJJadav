@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm working on a dynamic voting and survey website.<br>Diving deeply into JavaScript, learning both core concepts and advanced features.<br>Honing my skills by building practical, real-world applications.<br>Fun Fact: I read philosophy and physics
+Currently diving deep into machine learning and deep learning—building models with Python, TF-IDF, Lasso Regression, and Naive Bayes, and deploying them using Streamlit.
+My philosophy is simple: build to learn—I sharpen my skills by creating real-world applications.
+One of my ongoing projects is a dynamic voting and survey website, where I apply both frontend logic and backend data handling.
+Outside of code, I enjoy unraveling the abstract—philosophy and physics are my favorite mental playgrounds.
+
 
 
 ## 🌐 Socials:
